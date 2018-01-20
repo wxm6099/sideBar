@@ -42,7 +42,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/wxm6099/sideBar.git", :tag => "#{s.version}" }
 
 
-  s.source_files  = "sideBar/tool/*.{h,m}"
+  s.source_files  = "sideBar/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
