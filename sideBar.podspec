@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "https://github.com/wxm6099/sideBar.git", :tag => "0.03" }
+  s.source       = { :git => "https://github.com/wxm6099/sideBar.git", :tag => "0.0.3" }
 
 
   s.source_files  = "sideBar/**/*.{h,m}"

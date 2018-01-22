@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  sideBar
+//  sideBarDemo
 //
 //  Created by sense on 2018/1/19.
 //  Copyright © 2018年 sense. All rights reserved.

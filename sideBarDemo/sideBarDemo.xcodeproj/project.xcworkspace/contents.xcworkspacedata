@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:sideBar.xcodeproj">
+      location = "self:/Users/sense/Desktop/tool/sideBar/sideBar/sideBarDemo.xcodeproj">
    </FileRef>
 </Workspace>
