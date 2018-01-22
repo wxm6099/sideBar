@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "sideBar"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "侧边栏"
 
   #s.description  = <<-DESC
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "https://github.com/wxm6099/sideBar.git", :tag => "0.1" }
+  s.source       = { :git => "https://github.com/wxm6099/sideBar.git", :tag => "0.2" }
 
 
   s.source_files  = "sideBar/*.{h,m}"
