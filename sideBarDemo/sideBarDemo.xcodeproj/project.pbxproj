@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF4E1A9F2015BDCF0097862E /* menuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EF4E1A872015BDCF0097862E /* menuCell.m */; };
+		EF4E1AA02015BDCF0097862E /* SideBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF4E1A892015BDCF0097862E /* SideBarViewController.m */; };
+		EF4E1AA12015BDCF0097862E /* ALL_Lingeries.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A8B2015BDCF0097862E /* ALL_Lingeries.png */; };
+		EF4E1AA22015BDCF0097862E /* ALL_Lingeries_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A8C2015BDCF0097862E /* ALL_Lingeries_Big.png */; };
+		EF4E1AA32015BDCF0097862E /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A8D2015BDCF0097862E /* background.png */; };
+		EF4E1AA42015BDCF0097862E /* background_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A8E2015BDCF0097862E /* background_1@2x.png */; };
+		EF4E1AA52015BDCF0097862E /* Banquet_Dress.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A8F2015BDCF0097862E /* Banquet_Dress.png */; };
+		EF4E1AA62015BDCF0097862E /* Banquet_Dress_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A902015BDCF0097862E /* Banquet_Dress_Big.png */; };
+		EF4E1AA72015BDCF0097862E /* Begin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A912015BDCF0097862E /* Begin@2x.png */; };
+		EF4E1AA82015BDCF0097862E /* Camera@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A922015BDCF0097862E /* Camera@3x.png */; };
+		EF4E1AA92015BDCF0097862E /* clear.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A932015BDCF0097862E /* clear.png */; };
+		EF4E1AAA2015BDCF0097862E /* Daily_Bra.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A942015BDCF0097862E /* Daily_Bra.png */; };
+		EF4E1AAB2015BDCF0097862E /* Daily_Bra_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A952015BDCF0097862E /* Daily_Bra_Big.png */; };
+		EF4E1AAC2015BDCF0097862E /* Data_Collection.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A962015BDCF0097862E /* Data_Collection.png */; };
+		EF4E1AAD2015BDCF0097862E /* Date_Collection_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A972015BDCF0097862E /* Date_Collection_Big.png */; };
+		EF4E1AAE2015BDCF0097862E /* Gym_Suit.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A982015BDCF0097862E /* Gym_Suit.png */; };
+		EF4E1AAF2015BDCF0097862E /* Gym_Suit_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A992015BDCF0097862E /* Gym_Suit_Big.png */; };
+		EF4E1AB02015BDCF0097862E /* Leisure_Wear.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A9A2015BDCF0097862E /* Leisure_Wear.png */; };
+		EF4E1AB12015BDCF0097862E /* Leisure_Wear_Big.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A9B2015BDCF0097862E /* Leisure_Wear_Big.png */; };
+		EF4E1AB22015BDCF0097862E /* Photo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A9C2015BDCF0097862E /* Photo@3x.png */; };
+		EF4E1AB32015BDCF0097862E /* web_failure@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A9D2015BDCF0097862E /* web_failure@2x.png */; };
+		EF4E1AB42015BDCF0097862E /* web_failure_x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4E1A9E2015BDCF0097862E /* web_failure_x.png */; };
 		EF61BBEA2011EC7800A8F3BF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EF61BBE92011EC7800A8F3BF /* AppDelegate.m */; };
 		EF61BBED2011EC7800A8F3BF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF61BBEC2011EC7800A8F3BF /* ViewController.m */; };
 		EF61BBF02011EC7800A8F3BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF61BBEE2011EC7800A8F3BF /* Main.storyboard */; };
@@ -16,6 +38,31 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF4E1A852015BDCF0097862E /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
+		EF4E1A862015BDCF0097862E /* menuCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = menuCell.h; sourceTree = "<group>"; };
+		EF4E1A872015BDCF0097862E /* menuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = menuCell.m; sourceTree = "<group>"; };
+		EF4E1A882015BDCF0097862E /* SideBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SideBarViewController.h; sourceTree = "<group>"; };
+		EF4E1A892015BDCF0097862E /* SideBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SideBarViewController.m; sourceTree = "<group>"; };
+		EF4E1A8B2015BDCF0097862E /* ALL_Lingeries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ALL_Lingeries.png; sourceTree = "<group>"; };
+		EF4E1A8C2015BDCF0097862E /* ALL_Lingeries_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ALL_Lingeries_Big.png; sourceTree = "<group>"; };
+		EF4E1A8D2015BDCF0097862E /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		EF4E1A8E2015BDCF0097862E /* background_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background_1@2x.png"; sourceTree = "<group>"; };
+		EF4E1A8F2015BDCF0097862E /* Banquet_Dress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Banquet_Dress.png; sourceTree = "<group>"; };
+		EF4E1A902015BDCF0097862E /* Banquet_Dress_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Banquet_Dress_Big.png; sourceTree = "<group>"; };
+		EF4E1A912015BDCF0097862E /* Begin@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Begin@2x.png"; sourceTree = "<group>"; };
+		EF4E1A922015BDCF0097862E /* Camera@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Camera@3x.png"; sourceTree = "<group>"; };
+		EF4E1A932015BDCF0097862E /* clear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clear.png; sourceTree = "<group>"; };
+		EF4E1A942015BDCF0097862E /* Daily_Bra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Daily_Bra.png; sourceTree = "<group>"; };
+		EF4E1A952015BDCF0097862E /* Daily_Bra_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Daily_Bra_Big.png; sourceTree = "<group>"; };
+		EF4E1A962015BDCF0097862E /* Data_Collection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Data_Collection.png; sourceTree = "<group>"; };
+		EF4E1A972015BDCF0097862E /* Date_Collection_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Date_Collection_Big.png; sourceTree = "<group>"; };
+		EF4E1A982015BDCF0097862E /* Gym_Suit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gym_Suit.png; sourceTree = "<group>"; };
+		EF4E1A992015BDCF0097862E /* Gym_Suit_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gym_Suit_Big.png; sourceTree = "<group>"; };
+		EF4E1A9A2015BDCF0097862E /* Leisure_Wear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Leisure_Wear.png; sourceTree = "<group>"; };
+		EF4E1A9B2015BDCF0097862E /* Leisure_Wear_Big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Leisure_Wear_Big.png; sourceTree = "<group>"; };
+		EF4E1A9C2015BDCF0097862E /* Photo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photo@3x.png"; sourceTree = "<group>"; };
+		EF4E1A9D2015BDCF0097862E /* web_failure@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "web_failure@2x.png"; sourceTree = "<group>"; };
+		EF4E1A9E2015BDCF0097862E /* web_failure_x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = web_failure_x.png; sourceTree = "<group>"; };
 		EF61BBE52011EC7800A8F3BF /* sideBarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sideBarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF61BBE82011EC7800A8F3BF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EF61BBE92011EC7800A8F3BF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -39,6 +86,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF4E1A842015BDCF0097862E /* sideBar */ = {
+			isa = PBXGroup;
+			children = (
+				EF4E1A852015BDCF0097862E /* Constant.h */,
+				EF4E1A862015BDCF0097862E /* menuCell.h */,
+				EF4E1A872015BDCF0097862E /* menuCell.m */,
+				EF4E1A882015BDCF0097862E /* SideBarViewController.h */,
+				EF4E1A892015BDCF0097862E /* SideBarViewController.m */,
+				EF4E1A8A2015BDCF0097862E /* Source */,
+			);
+			path = sideBar;
+			sourceTree = SOURCE_ROOT;
+		};
+		EF4E1A8A2015BDCF0097862E /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				EF4E1A8B2015BDCF0097862E /* ALL_Lingeries.png */,
+				EF4E1A8C2015BDCF0097862E /* ALL_Lingeries_Big.png */,
+				EF4E1A8D2015BDCF0097862E /* background.png */,
+				EF4E1A8E2015BDCF0097862E /* background_1@2x.png */,
+				EF4E1A8F2015BDCF0097862E /* Banquet_Dress.png */,
+				EF4E1A902015BDCF0097862E /* Banquet_Dress_Big.png */,
+				EF4E1A912015BDCF0097862E /* Begin@2x.png */,
+				EF4E1A922015BDCF0097862E /* Camera@3x.png */,
+				EF4E1A932015BDCF0097862E /* clear.png */,
+				EF4E1A942015BDCF0097862E /* Daily_Bra.png */,
+				EF4E1A952015BDCF0097862E /* Daily_Bra_Big.png */,
+				EF4E1A962015BDCF0097862E /* Data_Collection.png */,
+				EF4E1A972015BDCF0097862E /* Date_Collection_Big.png */,
+				EF4E1A982015BDCF0097862E /* Gym_Suit.png */,
+				EF4E1A992015BDCF0097862E /* Gym_Suit_Big.png */,
+				EF4E1A9A2015BDCF0097862E /* Leisure_Wear.png */,
+				EF4E1A9B2015BDCF0097862E /* Leisure_Wear_Big.png */,
+				EF4E1A9C2015BDCF0097862E /* Photo@3x.png */,
+				EF4E1A9D2015BDCF0097862E /* web_failure@2x.png */,
+				EF4E1A9E2015BDCF0097862E /* web_failure_x.png */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		EF61BBDC2011EC7800A8F3BF = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +145,7 @@
 		EF61BBE72011EC7800A8F3BF /* sideBarDemo */ = {
 			isa = PBXGroup;
 			children = (
+				EF4E1A842015BDCF0097862E /* sideBar */,
 				EF61BBE82011EC7800A8F3BF /* AppDelegate.h */,
 				EF61BBE92011EC7800A8F3BF /* AppDelegate.m */,
 				EF61BBEB2011EC7800A8F3BF /* ViewController.h */,
@@ -129,9 +217,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF4E1AA82015BDCF0097862E /* Camera@3x.png in Resources */,
+				EF4E1AA72015BDCF0097862E /* Begin@2x.png in Resources */,
 				EF61BBF52011EC7800A8F3BF /* LaunchScreen.storyboard in Resources */,
+				EF4E1AAF2015BDCF0097862E /* Gym_Suit_Big.png in Resources */,
+				EF4E1AAC2015BDCF0097862E /* Data_Collection.png in Resources */,
+				EF4E1AAE2015BDCF0097862E /* Gym_Suit.png in Resources */,
+				EF4E1AAD2015BDCF0097862E /* Date_Collection_Big.png in Resources */,
+				EF4E1AB02015BDCF0097862E /* Leisure_Wear.png in Resources */,
+				EF4E1AA92015BDCF0097862E /* clear.png in Resources */,
+				EF4E1AAA2015BDCF0097862E /* Daily_Bra.png in Resources */,
+				EF4E1AA42015BDCF0097862E /* background_1@2x.png in Resources */,
+				EF4E1AA32015BDCF0097862E /* background.png in Resources */,
+				EF4E1AB32015BDCF0097862E /* web_failure@2x.png in Resources */,
 				EF61BBF22011EC7800A8F3BF /* Assets.xcassets in Resources */,
+				EF4E1AB22015BDCF0097862E /* Photo@3x.png in Resources */,
+				EF4E1AA52015BDCF0097862E /* Banquet_Dress.png in Resources */,
+				EF4E1AA12015BDCF0097862E /* ALL_Lingeries.png in Resources */,
+				EF4E1AAB2015BDCF0097862E /* Daily_Bra_Big.png in Resources */,
+				EF4E1AA22015BDCF0097862E /* ALL_Lingeries_Big.png in Resources */,
+				EF4E1AB42015BDCF0097862E /* web_failure_x.png in Resources */,
+				EF4E1AA62015BDCF0097862E /* Banquet_Dress_Big.png in Resources */,
 				EF61BBF02011EC7800A8F3BF /* Main.storyboard in Resources */,
+				EF4E1AB12015BDCF0097862E /* Leisure_Wear_Big.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,6 +252,8 @@
 			files = (
 				EF61BBED2011EC7800A8F3BF /* ViewController.m in Sources */,
 				EF61BBF82011EC7800A8F3BF /* main.m in Sources */,
+				EF4E1A9F2015BDCF0097862E /* menuCell.m in Sources */,
+				EF4E1AA02015BDCF0097862E /* SideBarViewController.m in Sources */,
 				EF61BBEA2011EC7800A8F3BF /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
